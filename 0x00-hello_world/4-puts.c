@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*puts is used in place of printf*/
+/**
+ * main - Entry point
+ * 
+ * Return: 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
