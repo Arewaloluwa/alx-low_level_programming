@@ -1,18 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * main - rest value
  *
  * Return: alwys 0
  */
-int main(void)
+void reset_to_98(int *n)
 {
-	int n;
-
-	n = 402;
-	_putchar("n=%d\n", n);
-	reset_to_98(&n);
-	_putchar("n=%d\n", n);
-	return (0);
+	n = 98;
 }
