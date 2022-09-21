@@ -4,6 +4,8 @@
  *
  * @s: character to get string
  *
+ * @i: any integer
+ *
  * Return - returns length
  *
  */
