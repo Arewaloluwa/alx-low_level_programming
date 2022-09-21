@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * main - rest value
- *
- * Return: alwys 0
+ * reset_to_98 - reset the value of variable
+ * @n: pointer to variable update
  */
 void reset_to_98(int *n)
 {
-	n = 98;
+	*n = 98;
 }
