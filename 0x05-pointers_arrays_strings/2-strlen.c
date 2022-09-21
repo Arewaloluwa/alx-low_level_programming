@@ -4,7 +4,7 @@
  *
  * @s: character to get string
  *
- * Return - returns length
+ * Return - returns length as integer
  *
  */
 int _strlen(char *s)
