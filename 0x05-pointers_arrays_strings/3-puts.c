@@ -2,10 +2,9 @@
 #include "2-strlen.c"
 
 /**
- * main - Entry point
+ * _puts - puts a string
  *
- * Return: SUCCESS
- *
+ * @str: string to print
  */
 void _puts(char *str)
 {
