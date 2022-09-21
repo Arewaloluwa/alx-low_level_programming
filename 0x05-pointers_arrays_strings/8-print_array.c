@@ -6,7 +6,7 @@
  * @n: number of times to print
  *
  */
-void print_array(char *str)
+void print_array(int *a, int n)
 {
 	int i;
 
